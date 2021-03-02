@@ -124,4 +124,10 @@ https://h617m1px6ibyxob.ezcdn462.net:8443/hls/dscs0wr97wf.m3u8?s=jZK_C_RBHhfi8n9
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/qkzjitm99su7y.m3u8?s=Ap_fERKemAO_Hj8sgfnbIA&e=1614653590
 
 #EXTINF:1,Telemundo
-http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
+https://corchitama12.pedromo.me/live/telemundo/index.m3u8?token=svkVUFaY_QE7e8dzVD_dPw&expires=1614733884
+
+#EXTINF:1,RT Español
+https://youtu.be/9DXGrOU5wKQ
+
+#EXTINF:1,TeleSur
+https://dddfnn6w75cj1.cloudfront.net/telesur-video-2021-03-01-162936246000/streamables/hls/telesur-video-2021-03-01-162936246000.m3u8
