@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:1,Star Series
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=1RR_UeF7v8zI8ZdClXZc8A&e=1614651187
+#EXTINF:-1,Star Series
+http://23.237.29.98:2095/660fox1/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Star Channel
+#EXTINF:-1,Star Channel
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/0e733j.m3u8?s=UWt1zF26zfYhXWS1emWfEg&e=1614651492
 
 #EXTINF:1, Star Action
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/4612rwe.m3u8?s=LaAwmfQHrjT1Gs6KncjGow&e=1614651722
 
-#EXTINF:1, Star Family
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/goks9npik9.m3u8?s=a77kzCRHj_P2kiE4xjqVLA&e=1614651801
+#EXTINF:-1,Star Family
+http://23.237.29.98:2095/665foxFamily/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:1,Star Cinema
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=YDPs0f6yoQ-ONj3Jcm7RNw&e=1614651840
@@ -18,8 +18,8 @@ https://h617m1px6ibyxob.ezcdn462.net:8443/hls/5s69x53079q85.m3u8?s=YDPs0f6yoQ-ON
 #EXTINF:1,Star Comedy
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/pnc0det5nknvqo.m3u8?s=ORGbvCoEkcDHJ6wkcaYWtQ&e=1614651874
 
-#EXTINF:1,Star Classic
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/nmgmf0p714cb.m3u8?s=Qo1-x_tLb7GhwGCzv62Kiw&e=1614651913
+#EXTINF:-1,Star Classic
+http://23.237.29.98:2095/669foxClassics/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,Star Movies
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=VIMAXdrdGKkZP4y61McgVg&e=1614651946
@@ -27,44 +27,47 @@ https://h617m1px6ibyxob.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=VIMAXdrdGKk
 #EXTINF:1,Star Life
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/aa03um3.m3u8?s=X70MS_EDvOPSqojCe9xYrA&e=1614651980
 
-#EXTINF:1,HBO Latino
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=IknE_mvznkwvVpAp6EkABw&e=1614652023
+#EXTINF:-1,HBO 
+http://38.18.238.42:2095/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,HBO 2
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/x5r58d0omlmqph.m3u8?s=X62MR3vq3IyEJNVK5Fu9-Q&e=1614652053
+#EXTINF:-1,HBO 2
+http://38.18.238.42:2095/651HBO2/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,HBO Plus
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3dgzjbpy.m3u8?s=VlctmLyZSQVreayvPSJHvg&e=1614652099
+#EXTINF:-1,HBO Plus
+http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:1,HBO Family
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/mfobze65eqg.m3u8?s=KIlLPLph1qadpicx5N9jQg&e=1614652130
+#EXTINF:-1,HBO Family
+http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,HBO Signature
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/g05mnm.m3u8?s=5oLhpCZ2_1qNud-e2BRpdQ&e=1614652172
 
-#EXTINF:1,HBO Xtreme
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/way71f4yp5a3.m3u8?s=mjtp1lQNaY8DP_Dxx7WGSA&e=1614652229
+#EXTINF:-1,HBO Xtreme
+http://38.18.238.42:2095/658MaxPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,HBO Mundi
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/8nviuzdhm5jnu.m3u8?s=8wYWXlnkUKgkfcGKhQBwpw&e=1614652261
 
-#EXTINF:1,HBO Pop
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/rvqh1fziz.m3u8?s=Thx_Mawy5ubaQY0zUsDlsQ&e=1614652324
+#EXTINF:-1,Cine Latino
+http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:1,Cinemax
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=5WS_kSbvMzkoNiet001mew&e=1614652464
+#EXTINF:-1,Cinemax
+http://38.18.238.42:2095/603Cinemax/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Cine Canal
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=zCje3bYE3z39SxEoBEfoKg&e=1614652500
+#EXTINF:-1,Cine Canal
+http://23.237.29.98:2095/605CineCanalPrime/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,TNT
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/glaldsq.m3u8?s=E6BgpKezet9R-O_JPC-NBQ&e=1614652538
+#EXTINF:-1,TNT
+http://38.18.238.42:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,TNT Serie
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/uw2t3eem.m3u8?s=-2XTSjR9oqnxP78Nx35xFQ&e=1614652574
+#EXTINF:-1,TNT Series
+http://38.18.238.42:2095/205TNTSE/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:1,AXN
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/l051rl.m3u8?s=BJHDyZ7RL-dwgX4KdZg4_g&e=1614652613
+#EXTINF:-1,AXN
+http://38.18.238.35:2095/andromeda/AXN/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1,A&E
+http://23.237.29.98:2095/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,AMC
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=XzVzckGE2tmKFINp8Rf8aw&e=1614652646
@@ -75,44 +78,44 @@ https://h617m1px6ibyxob.ezcdn462.net:8443/hls/jpizlg1osqocv.m3u8?s=RNA4YbtME_ePE
 #EXTINF:1, FX
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3cuvpp5n.m3u8?s=mt_aNhWjKF9hBTzREKQhqg&e=1614652721
 
-#EXTINF:1,Canal Space
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/me4gtt8v3fmket.m3u8?s=IW5aKnGTthoDgzWjmnK9qQ&e=1614652787
+#EXTINF:-1,Canal Space
+http://38.18.238.42:2095/221SpaceMexico/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Comedy Central
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/4qox4.m3u8?s=56iFbGPkYlKp7854JA-ypw&e=1614652819
+#EXTINF:-1,Comedy Central
+http://38.18.238.42:2095/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:1,Paramount Channel
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/vwchy5d.m3u8?s=sP0GmqOemDuFvKB9HRos4Q&e=1614652848
+#EXTINF:-1,Paramount Channel
+http://23.237.29.98:2095/615PARAM/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Sonny Channel
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/oc2v2i6j.m3u8?s=cXwjnBL_SVNOsy4x4cAJtQ&e=1614652878
+#EXTINF:-1,Sonny Channel
+http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Universal Channel
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/d77wqro8917ua5z.m3u8?s=txXy_tD8ODwfRMEIQT8jRA&e=1614652970
+#EXTINF:-1,Universal Channel
+http://38.18.238.35:2095/andromeda/UNIVERSAL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Warner Channel
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=wIs_v7BICUN6J4umFkBWlQ&e=1614653011
+#EXTINF:-1,Warner Channel
+http://38.18.238.42:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Cartoon Network
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/1feji.m3u8?s=2PNlXA87aN7iaMbQp2x7Vg&e=1614653051
+#EXTINF:-1,Cartoon Network
+http://38.18.238.42:2095/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Disney Channel
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/96859.m3u8?s=O6YZkE-Hk5sgHAAel9umzw&e=1614653100
+#EXTINF:-1,Disney Channel
+http://38.18.238.42:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Nick
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=L7jmJ1I6UlO3DM4S64pKmQ&e=1614653128
+#EXTINF:-1,Nick
+http://38.18.238.42:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:1,Boomerang
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/hmnf8ejk.m3u8?s=-lth9Ds33Qk97Q05k2PICQ&e=1614653165
+#EXTINF:-1,Boomerang
+http://23.237.29.98:2095/308BoomerangMexico/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:1,Historia
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/17v00przcmhii.m3u8?s=C3K9RrtTBVdhlHzTC-UpGA&e=1614653205
+#EXTINF:-1,History
+http://38.18.238.42:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,History Channel
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=glhuaCOhcKaP0JzJClBicQ&e=1614653249
 
-#EXTINF:1,National Geographic
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=NnNhCcooAOywsF89C_BUpQ&e=1614653294
+#EXTINF:-1,National Geographic
+http://38.18.238.42:2095/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,Televisa
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/wuiltxgwjo.m3u8?s=BTlYif8_Iseg-2_5uWEWMw&e=1614653456
@@ -123,11 +126,62 @@ https://h617m1px6ibyxob.ezcdn462.net:8443/hls/dscs0wr97wf.m3u8?s=jZK_C_RBHhfi8n9
 #EXTINF:1,Caracol
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/qkzjitm99su7y.m3u8?s=Ap_fERKemAO_Hj8sgfnbIA&e=1614653590
 
-#EXTINF:1,Telemundo
-https://corchitama12.pedromo.me/live/telemundo/index.m3u8?token=svkVUFaY_QE7e8dzVD_dPw&expires=1614733884
+#EXTINF:-1,Telemundo
+http://38.18.238.42:2095/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:1,RT Español
 https://youtu.be/9DXGrOU5wKQ
 
 #EXTINF:1,TeleSur
 https://dddfnn6w75cj1.cloudfront.net/telesur-video-2021-03-01-162936246000/streamables/hls/telesur-video-2021-03-01-162936246000.m3u8
+
+#EXTINF:-1,CNN Español
+http://23.237.29.98:2095/702CNN/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+#EXTINF:-1,FF CHANNEL
+https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,America Estereo
+https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,Ecuaradio TV
+https://sv72.ecuaradiotv.net/fundacionvista/live/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,Televisión Puruwa
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,Max TV
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,Cine Cable
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,Retro Plus 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,REWIND HD 
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,RTU
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1,UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w1030260942.m3u8 
+
+#EXTINF:-1,Teleamazonas
+https://youvideostreaming.club/hls/ectv4.m3u8
+
+#EXTINF:-1,TC
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8 
+
+#EXTINF:-1,Ecuavisa
+https://youvideostreaming.club/hls/ectv3.m3u8
+
+#EXTINF:-1,Canal UNO
+https://youvideostreaming.club/hls/ectv1.m3u8
+
+#EXTINF:-1,RTS
+https://youvideostreaming.club/hls/ectv2.m3u8
