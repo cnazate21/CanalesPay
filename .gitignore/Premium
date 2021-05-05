@@ -21,8 +21,8 @@ https://cloud17.ecuatel.com/lanuevatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Ecuaradio TV
 https://sv72.ecuaradiotv.net/fundacionvista/live/playlist.m3u8?PlaylistM3UCL 
 
-#EXTINF:-1,Hechos tv
-http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
+#EXTINF:-1,Radio y televisión Soliradidad 
+https://sv72.ecuaradiotv.net/fundacionvista/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Hechos TV 
 http://37.187.7.106/hechostv/live.m3u8?PlaylistM3UCL
